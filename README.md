@@ -2,7 +2,7 @@
 
 
 
-🏫 **Kyunghee University Computer Engineering** (2019.03 ~ present)
+🏫 **Kyunghee University Computer Engineering** (2019.03 ~ 2023.02)
 
 📝 **Blog** https://velog.io/@wish
 
