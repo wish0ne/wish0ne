@@ -4,7 +4,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
 <a href="https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/" target="_blank"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/></a>
 
 
