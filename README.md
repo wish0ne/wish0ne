@@ -1,7 +1,7 @@
 ## 장소원 Sowon Jang
 
 <a href="https://velog.io/@wish" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
-<a href="wish@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+<a href="mailto:wish@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/></a>
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/></a> <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/></a>
