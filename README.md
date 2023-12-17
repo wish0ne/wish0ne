@@ -1,12 +1,5 @@
 ## 장소원 Sowon Jang
 
-<a href="https://velog.io/@wish" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
-<a href="mailto:wishjang00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-
-<!-- <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/></a>
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/></a> <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/></a>
- -->
- 
 ### *Experience*
 * **네이버** Healthcare Digital Transformation 인턴십 (2023.01 - 2023.07)
 * **구름톤 3기** 우수상 (2022.11) 
